@@ -3,4 +3,5 @@ exclude =
   migration,
   __pycache__,
   manage.py,
-  setting.py
+  app/app/settings.py
+  .venv
